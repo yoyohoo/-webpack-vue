@@ -197,7 +197,7 @@ npm  i  cross-env
 
 <pre>
 <code>
-npm webpack-cli
+npm i webpack-cli
   </code>
 </pre>
 再执行，还是报错 缺少vue-template-compiler，安装vue-template-compiler
