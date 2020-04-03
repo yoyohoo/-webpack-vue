@@ -333,3 +333,12 @@ module.exports=merge(base,{
 })
 </code>
 </pre>
+
+# 安装element-ui
+<pre>
+<code>
+npm install element-ui
+npm install babel-plugin-component -D
+</code>
+</pre>
+
