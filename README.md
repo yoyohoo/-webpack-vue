@@ -342,3 +342,8 @@ npm install babel-plugin-component -D
 </code>
 </pre>
 
+# 安装babel（版本兼容性问题，例如IE，ES6）
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
